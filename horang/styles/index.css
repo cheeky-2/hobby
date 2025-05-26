@@ -1,0 +1,51 @@
+main #wrap {}
+main #wrap header {}
+main #wrap header h1 {}
+main #wrap header h1 a {}
+main #wrap header h1 a img {}
+main #wrap header nav {}
+main #wrap header nav .right_gnb {}
+main #wrap header nav .right_gnb li {}
+main #wrap header nav .right_gnb li a {}
+main #wrap #page1 {}
+main #wrap #page1 h2 {}
+main #wrap #page1 p {}
+main #wrap #page1 .page_bg_nav {}
+main #wrap #page1 .page_bg_nav li {}
+main #wrap #page1 .page_bg_nav li button {}
+main #wrap #page1 .page_bg_nav li button img {}
+main #wrap #page1 .page_bg_nav li .main_bg1 {}
+main #wrap #page1 .page_bg_nav li .main_bg1 img {}
+main #wrap #page1 .page_bg_nav li .main_bg2 {}
+main #wrap #page1 .page_bg_nav li .main_bg2 img {}
+main #wrap #page1 .page_bg_nav li .main_bg3 {}
+main #wrap #page1 .page_bg_nav li .main_bg3 img {}
+main #wrap #page1 .page_bg_nav li .main_bg4 {}
+main #wrap #page1 .page_bg_nav li .main_bg4 img {}
+main #wrap #page1 .page_bg_nav li .main_bg5 {}
+main #wrap #page1 .page_bg_nav li .main_bg5 img {}
+main #wrap #page1 .page_bg_nav li .main_bg6 {}
+main #wrap #page1 .page_bg_nav li .main_bg6 img {}
+main #wrap #page2 {}
+main #wrap #page2 h2 {}
+main #wrap #page2 .room_contents {}
+main #wrap #page2 .room_contents li {}
+main #wrap #page2 .room_contents li img {}
+main #wrap #page2 .room_contents li p {}
+main #wrap #page2 .room_contents li p em {}
+main #wrap #page2 .room_contents li p span {}
+main #wrap #page3 {}
+main #wrap #page3 h2 {}
+main #wrap #page3 .tourist_attraction {}
+main #wrap #page3 .tourist_attraction p {}
+main #wrap #page3 .tourist_attraction .tourist {}
+main #wrap #page3 .tourist_attraction .tourist li {}
+main #wrap #page3 .tourist_attraction .tourist li img {}
+main #wrap #page3 .tourist_attraction .tourist li em {}
+main #wrap #page4 {}
+main #wrap #page4 h2 {}
+main #wrap #page4 p {}
+main #wrap #page4 p img {}
+main #wrap #page4 .guidance_contents {}
+main #wrap #page4 .guidance_contents dt {}
+main #wrap #page4 .guidance_contents dd {}
